@@ -933,7 +933,7 @@ const norm = (v) =>
 
   //  divided.length 6개
 
-  const categoryItem = divided[3];
+  const categoryItem = divided[4];
   const cnfields = ["c2n", "c3n", "c4n"];
 
   const listTasks = { item: [], dataBaseRes: [] };
